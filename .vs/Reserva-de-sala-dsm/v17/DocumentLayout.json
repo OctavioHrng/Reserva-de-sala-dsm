@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\3\u00BASemestre\\T\u00E9cnica de Progama\u00E7\u00E3o II\\Aula 01.10\\Reserva-de-sala-dsm\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B0C48F-32CF-424C-BA07-DA353F2F94B0}|Reserva-de-sala-dsm\\Reserva-de-sala-dsm.csproj|c:\\users\\aluno\\documents\\3\u00BAsemestre\\t\u00E9cnica de progama\u00E7\u00E3o ii\\aula 01.10\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B0C48F-32CF-424C-BA07-DA353F2F94B0}|Reserva-de-sala-dsm\\Reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B0C48F-32CF-424C-BA07-DA353F2F94B0}|Reserva-de-sala-dsm\\Reserva-de-sala-dsm.csproj|c:\\users\\aluno\\documents\\3\u00BAsemestre\\t\u00E9cnica de progama\u00E7\u00E3o ii\\aula 01.10\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B0C48F-32CF-424C-BA07-DA353F2F94B0}|Reserva-de-sala-dsm\\Reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B0C48F-32CF-424C-BA07-DA353F2F94B0}|Reserva-de-sala-dsm\\Reserva-de-sala-dsm.csproj|c:\\users\\aluno\\documents\\3\u00BAsemestre\\t\u00E9cnica de progama\u00E7\u00E3o ii\\aula 01.10\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8B0C48F-32CF-424C-BA07-DA353F2F94B0}|Reserva-de-sala-dsm\\Reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\3\u00BASemestre\\T\u00E9cnica de Progama\u00E7\u00E3o II\\Aula 01.10\\Reserva-de-sala-dsm\\Reserva-de-sala-dsm\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "Reserva-de-sala-dsm\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\3\u00BASemestre\\T\u00E9cnica de Progama\u00E7\u00E3o II\\Aula 01.10\\Reserva-de-sala-dsm\\Reserva-de-sala-dsm\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "Reserva-de-sala-dsm\\Views\\Usuario\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T23:40:39.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\3\u00BASemestre\\T\u00E9cnica de Progama\u00E7\u00E3o II\\Aula 01.10\\Reserva-de-sala-dsm\\Reserva-de-sala-dsm\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Reserva-de-sala-dsm\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\3\u00BASemestre\\T\u00E9cnica de Progama\u00E7\u00E3o II\\Aula 01.10\\Reserva-de-sala-dsm\\Reserva-de-sala-dsm\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Reserva-de-sala-dsm\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAADwv2EAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T23:07:05.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\3\u00BASemestre\\T\u00E9cnica de Progama\u00E7\u00E3o II\\Aula 01.10\\Reserva-de-sala-dsm\\Reserva-de-sala-dsm\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Reserva-de-sala-dsm\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\3\u00BASemestre\\T\u00E9cnica de Progama\u00E7\u00E3o II\\Aula 01.10\\Reserva-de-sala-dsm\\Reserva-de-sala-dsm\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Reserva-de-sala-dsm\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:42:37.779Z",
+              "EditorCaption": ""
             }
           ]
         }

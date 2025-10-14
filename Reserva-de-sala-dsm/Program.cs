@@ -1,7 +1,21 @@
+using Microsoft.EntityFrameworkCore;
+using Reserva_de_sala_dsm.Data;
+using Reserva_de_sala_dsm.Interfaces;
+using Reserva_de_sala_dsm.Repositories;
+using Reserva_de_sala_dsm.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<BancoContext>(opts =>
+    opts.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
+);
+
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+
+builder.Services.AddScoped<IUsuarioService, UsuarioService>();
 
 var app = builder.Build();
 
